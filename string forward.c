@@ -15,4 +15,4 @@ while(rot--)
     }
     arr[n-1]=temp;
 }
-printf("%
+printf("%s"  ,arr);
